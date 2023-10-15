@@ -2,13 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/docs/k8s/podrelated/</loc>
-  </url><url>
-    <loc>https://example.org/categories/</loc>
-  </url><url>
     <loc>https://example.org/docs/</loc>
   </url><url>
+    <loc>https://example.org/docs/table-of-contents/k8s%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/with-toc/</loc>
+  </url><url>
+    <loc>https://example.org/docs/table-of-contents/k8s%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/without-toc/</loc>
+  </url><url>
+    <loc>https://example.org/docs/table-of-contents/</loc>
+  </url><url>
+    <loc>https://example.org/docs/table-of-contents/k8s%E6%BA%90%E7%A0%81%E8%A7%A3%E8%AF%BB/</loc>
+  </url><url>
     <loc>https://example.org/</loc>
+  </url><url>
+    <loc>https://example.org/docs/hidden/</loc>
+  </url><url>
+    <loc>https://example.org/categories/</loc>
   </url><url>
     <loc>https://example.org/tags/</loc>
   </url>
